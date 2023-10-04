@@ -1,5 +1,5 @@
 # 👋 Hello
-
+<br>
 Hi there, I hope you're doing well !<br>
 
  
@@ -51,7 +51,12 @@ Thus, this experience gave me an insight on Agile Methology work environment.
 
 ### Monitoring Github Stats:
 
-![satnam-walia github stats](https://github-readme-stats.vercel.app/api?username=satnam-walia&hide=issues&count_private=true&theme=vue&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satnam-walia&hide=issues&count_private=true&theme=vue&show_icons=true" alt="satnam-walia github stats" width="48%">
+  <img src="https://leetcode.card.workers.dev/bloodlust21?theme=light&font=baloo&extension=null&border=2&border_radius=8" alt="leetcode stats" width="44%">
+</p>
+
+
 
 ### Get in touch !
 <p>
@@ -69,3 +74,5 @@ You're the <img src="https://profile-counter.glitch.me/satnam-walia+2023-10-04/c
 
 
 ### Feel free to check out some cool stuff I've been working out ! 😎👇
+
+
