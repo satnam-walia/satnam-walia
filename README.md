@@ -53,7 +53,7 @@ Thus, this experience gave me an insight on Agile Methology work environment.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satnam-walia&hide=issues&count_private=true&theme=vue&show_icons=true" alt="satnam-walia github stats" width="48%">
-  <img src="https://leetcode.card.workers.dev/bloodlust21?theme=light&font=baloo&extension=null&border=2&border_radius=8" alt="leetcode stats" width="44%">
+  <img src="https://leetcode.card.workers.dev/satnamwalia?theme=light&font=baloo&extension=null&border=2&border_radius=8" alt="leetcode stats" width="44%">
 </p>
 
 
